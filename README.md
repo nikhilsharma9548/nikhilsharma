@@ -22,7 +22,10 @@
 
 ###
 
-<h6 align="left">E-mail :- ns@630403gmail.com</h6>
+<h6 align="left">
+  📧 Email: <a href="mailto:ns630403@gmail.com">ns630403@gmail.com</a>
+</h6>
+
 
 ###
 
