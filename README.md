@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey there ! I'm Nikhil Sharma</h2>
+<h1 align="left">👋 Hey there ! I'm Nikhil Sharma</h1>
 
 ###
 
