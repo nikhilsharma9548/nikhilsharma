@@ -23,7 +23,7 @@
 ###
 
 <h6 align="left">
-  📧 Email: <a href="mailto:ns630403@gmail.com">ns630403@gmail.com</a>
+  📧 Email: <a href="mailto:nikhilsharma9533@gmail.com">ns630403@gmail.com</a>
 </h6>
 
 
